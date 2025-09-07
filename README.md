@@ -59,7 +59,7 @@ Automated production alignment processes with 8051-based embedded C
 I’m continuously expanding my expertise in Embedded Linux and real-time systems.  
 
 Some recent learning projects include:  
-- Practicing FreeRTOS task synchronization and software timers  
+- Practicing FreeRTOS on updating motor's angles and implementing MIPI CSI 2.0  
 - Exploring device driver development under Linux (GPIO, UART)  
 - Building and flashing custom Linux images for embedded hardware  
 
