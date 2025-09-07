@@ -31,6 +31,7 @@ Utilize MPLAB X IDE v6.25 and Compiler Toolchain XC32 to create the labs to help
 
 🔹 **Robot and C/C++ Development & Embedded Systems**  
 Build an Arduino-based robot equipped with flame/ultrasonic sensor, Servo/DC motors.
+
 Completed 31+ C programming exercises (Exercism).
 Implement memory allocators, explored device drivers
 - Demonstrated differences between static, heap, and stack allocations  
