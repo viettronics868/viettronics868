@@ -33,22 +33,29 @@ Utilize MPLAB X IDE v6.25 and Compiler Toolchain XC32 to create the labs to help
 Build an Arduino-based robot equipped with flame/ultrasonic sensor, Servo/DC motors.
 
 Completed 31+ C programming exercises (Exercism).
+
 Implement memory allocators, explored device drivers
 - Demonstrated differences between static, heap, and stack allocations  
 - Useful for teaching and debugging embedded memory layout  
 
 🔹 **TP-Link Archer C7 v3 Embedded Linux Customization**  
-Developed custom firmware projects, accessed U-Boot, configured TFTP booting, dumped kernel/rootfs partitions, analyzed SquashFS with Binwalk, and repacked firmware using mksquashfs. 
+Developed custom firmware projects:
+- Accessed U-Boot,
+- Configured TFTP booting,
+- Dumped kernel/rootfs partitions,
+- Analyzed SquashFS with Binwalk, and repacked firmware using mksquashfs. 
 - Experimented with cross-compilation and rootfs customization  
 
 
 🔹 **Television R&D and Mass Production**  
 Designed and developed TV hardware/software (TMP87CH38, TDA9351 chipsets). 
+
 Automated production alignment processes with 8051-based embedded C  
 
 ## 📈 Learning Journey
 
 I’m continuously expanding my expertise in Embedded Linux and real-time systems.  
+
 Some recent learning projects include:  
 - Practicing FreeRTOS task synchronization and software timers  
 - Exploring device driver development under Linux (GPIO, UART)  
