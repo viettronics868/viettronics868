@@ -3,6 +3,7 @@
 🔹 Embedded System Developer with hands-on experience in ophthalmic medical device industry (EN ISO 13485:2016, IEC 60601-1, IEC 62304, ISO 14971) and large-scale deployment (300+ retinal scanners with Windows IoT imaging and runtime operation).  
 🔹 Deep expertise in C programming, embedded Linux customization (U-Boot, SquashFS), and low-level system bring-up.  
 🔹 Embedded Linux projects include TFTP bootloader interfaces, partition analysis with binwalk, and firmware repackaging for routers.
+
 🔹 Strong in firmware development, cross-compilation toolchains, and Git version control.
 
 ## 🛠️ Skills & Tools
