@@ -30,10 +30,10 @@ Utilize MPLAB X IDE v6.25 and Compiler Toolchain XC32 to create the labs to help
 - Illustrated Priority Inversion and Priority Inheritance  
 
 🔹 **Robot and C/C++ Development & Embedded Systems[https://github.com/viettronics868/firefighterRobot.git]**  
-** [https://github.com/viettronics868/C_language.git]**
+
 Build an Arduino-based robot equipped with flame/ultrasonic sensor, Servo/DC motors.
 
-Completed 31+ C programming exercises (Exercism).
+Completed 31+ C programming exercises (Exercism) [https://github.com/viettronics868/C_language.git]
 
 Implement memory allocators, explored device drivers
 - Demonstrated differences between static, heap, and stack allocations  
