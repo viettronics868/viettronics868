@@ -21,7 +21,7 @@
 Assembled, configured, verified and validated over 300 retinal scanners from 200+ individual components, following 50+ Work Instructions aligned with IEC 60601-1 and FDA regulatory.  
 Deployed Windows IoT–based software and custom medical applications across 300+ devices using the AOMEI Backupper tool, ensuring system consistency and operational integrity.
 
-🔹 **FreeRTOS labs on PIC32MZ EF board**  
+🔹 **FreeRTOS labs on PIC32MZ EF board [https://github.com/viettronics868/FreeRTOSonPic32.git]**  
 Utilize MPLAB X IDE v6.25 and Compiler Toolchain XC32 to create the labs to help developers to get used to with FreeRTOS Kernel on Curiosity 2.0 PIC32 MZ EF development board.  
 - Implementation of UART communication using DMA and FreeRTOS synchronization mechanisms.  
 - Protected shared DMA buffers with mutexes  
@@ -29,7 +29,8 @@ Utilize MPLAB X IDE v6.25 and Compiler Toolchain XC32 to create the labs to help
 - Demonstrated efficient real-time communication
 - Illustrated Priority Inversion and Priority Inheritance  
 
-🔹 **Robot and C/C++ Development & Embedded Systems**  
+🔹 **Robot and C/C++ Development & Embedded Systems[https://github.com/viettronics868/firefighterRobot.git]**  
+** [https://github.com/viettronics868/C_language.git]**
 Build an Arduino-based robot equipped with flame/ultrasonic sensor, Servo/DC motors.
 
 Completed 31+ C programming exercises (Exercism).
@@ -38,7 +39,7 @@ Implement memory allocators, explored device drivers
 - Demonstrated differences between static, heap, and stack allocations  
 - Useful for teaching and debugging embedded memory layout  
 
-🔹 **TP-Link Archer C7 v3 Embedded Linux Customization**  
+🔹 **TP-Link Archer C7 v3 Embedded Linux Customization[https://github.com/viettronics868/stock_archerc7v3.git]**  
 Developed custom firmware projects:
 - Accessed U-Boot,
 - Configured TFTP booting,
